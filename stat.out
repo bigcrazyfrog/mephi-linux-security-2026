@@ -1,0 +1,45 @@
+  File: /home/user1
+  Size: 161       	Blocks: 0          IO Block: 4096   directory
+Device: 252,0	Inode: 803253      Links: 2
+Access: (0700/drwx------)  Uid: ( 1234/   user1)   Gid: ( 1000/students)
+Context: unconfined_u:object_r:user_home_dir_t:s0
+Access: 2027-01-01 03:00:00.470503500 +0200
+Modify: 2027-01-01 03:09:41.553539546 +0200
+Change: 2027-01-01 03:09:41.553539546 +0200
+ Birth: 2026-11-16 19:20:24.788200778 +0200
+  File: /usr/bin/chown
+  Size: 70064     	Blocks: 144        IO Block: 4096   regular file
+Device: 252,0	Inode: 8478918     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Context: system_u:object_r:bin_t:s0
+Access: 2026-11-16 18:32:28.882946534 +0200
+Modify: 2026-08-03 03:00:00.000000000 +0300
+Change: 2026-11-16 18:30:58.360903509 +0200
+ Birth: 2026-11-16 18:30:58.238223072 +0200
+  File: /usr/bin/cat
+  Size: 44864     	Blocks: 88         IO Block: 4096   regular file
+Device: 252,0	Inode: 8478914     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: (    0/    root)   Gid: (    0/    root)
+Context: system_u:object_r:bin_t:s0
+Access: 2027-01-01 03:01:01.008340717 +0200
+Modify: 2026-08-03 03:00:00.000000000 +0300
+Change: 2026-11-16 18:30:58.360903509 +0200
+ Birth: 2026-11-16 18:30:58.234222995 +0200
+  File: ./newcat
+  Size: 44864     	Blocks: 88         IO Block: 4096   regular file
+Device: 252,0	Inode: 198657      Links: 1
+Access: (4750/-rwsr-x---)  Uid: (    0/    root)   Gid: ( 1000/students)
+Context: unconfined_u:object_r:user_home_t:s0
+Access: 2026-11-16 20:11:49.119760324 +0200
+Modify: 2026-11-16 20:09:30.261508111 +0200
+Change: 2026-11-16 20:10:44.324642123 +0200
+ Birth: 2026-11-16 20:09:30.261508111 +0200
+  File: ./newchown
+  Size: 70064     	Blocks: 144        IO Block: 4096   regular file
+Device: 252,0	Inode: 198659      Links: 1
+Access: (0750/-rwxr-x---)  Uid: (    0/    root)   Gid: ( 1000/students)
+Context: unconfined_u:object_r:user_home_t:s0
+Access: 2026-11-16 20:23:22.932303910 +0200
+Modify: 2026-11-16 20:19:13.719784960 +0200
+Change: 2026-11-16 20:21:07.996853464 +0200
+ Birth: 2026-11-16 20:19:13.719784960 +0200

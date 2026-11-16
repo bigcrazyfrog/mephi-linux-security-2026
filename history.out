@@ -1,0 +1,19 @@
+    1  cat /etc/shadow
+    2  ./newcat /etc/shadow
+    3  ls -l newcat 
+    4  clear
+    5  exit
+    6  touch file1
+    7  chown root file1
+    8  ./newchown root file1
+    9  ls -l file1 
+   10  clear
+   11  sudo visudo
+   12  exit
+   13  sudo timedatectl set-ntp false
+   14  sudo timedatectl set-time "2027-01-01 03:00:00"
+   15  timedatectl 
+   16  sudo -l
+   17  nano history
+   18  nano ~/history.out
+   19  history > history.out
